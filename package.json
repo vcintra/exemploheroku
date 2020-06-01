@@ -1,0 +1,16 @@
+{
+  "name": "exemploheroku",
+  "version": "1.0.0",
+  "description": "Exemplo de Deploy no Heroku",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/vcintra/exemploheroku.git",
+  "author": "Vinicius Domingos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
